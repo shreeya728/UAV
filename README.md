@@ -1,2 +1,2 @@
 # UAV
-Drone design and ROS
+Drone design and Aerial Robotics
