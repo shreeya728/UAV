@@ -21,12 +21,14 @@ Program -> Mavros -> Mavlink Messages -> Pixhawk -> Drone movements.
 
 SITL stands for "Software-In-The-Loop." It is a type of simulation used in robotics and unmanned aerial vehicles (UAVs), where the software controlling the vehicle is tested in a simulated environment rather than on a physical vehicle.
 
+<img width="891" alt="arrange" src="https://github.com/user-attachments/assets/09a69e29-b08a-4e2b-9738-744e28b662b9" />
+
 
 ### The Drone Dojo
 - DRONE DESIGN: THRUST TO WEIGHT RATIO
   WEIGHT is the downward force. Our drone must overcome this force in weight in the opposite direction to fly. 
   F=m, F=(g) —> gravity is constant everywhere.
-  THRUST the mass a motor/prop can lift in the air.
+  THRUST is the mass a motor/prop can lift in the air.
   MUST HAVE MORE THRUST THAN WEIGHT TO FLY
   COMMON TWO RATIOS-
     - 4:1 / 11:1 - racing drones
